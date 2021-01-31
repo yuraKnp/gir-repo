@@ -1,4 +1,5 @@
-print("Hello world")
-print("Hello everybody")
-print("new code")
-print("edited code")
+print("Hello world;")
+print("Hello everybody;")
+print("new code;")
+print("edited code;")
+
